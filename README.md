@@ -1,2 +1,2 @@
-# 03-Juicy-Brick-Breaker
-Juicy Brick Breaker game
+# 02-2D-Platformer
+2D platformer project
